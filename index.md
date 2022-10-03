@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Home"
 permalink: /
+---
 
 <!doctype html>
 <html lang="en">
